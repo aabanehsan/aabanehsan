@@ -130,6 +130,7 @@ INFO = [
     ("Blue", "Elastic SIEM, Linux hardening"),
     ("Practice", "Hack The Box weekly, red vs blue lab"),
     ("Building", "promptprobe, grc-mapper, redvblue-lab"),
+    ("Web", "aabanehsan.vercel.app"),
     ("Contact", "linkedin.com/in/aaban-ehsan"),
 ]
 

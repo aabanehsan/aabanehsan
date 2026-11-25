@@ -15,6 +15,7 @@ I like breaking things and then figuring out how to explain the risk to the peop
 - ⚔️ Running a **red vs blue lab** with friends: harden Linux boxes, attack them, catch the attacker live
 - 📦 Hack The Box every week with State Farm's internal hack club
 - 🎓 UT Austin, B.S. Informatics '28
+- 🌐 Portfolio: **[aabanehsan.vercel.app](https://aabanehsan.vercel.app/)**
 
 ### `aaban@github ~ $ whoami --verbose`
 
@@ -42,6 +43,7 @@ I like breaking things and then figuring out how to explain the risk to the peop
 ### `aaban@github ~ $ cat contact.txt`
 
 <p>
+<a href="https://aabanehsan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-aabanehsan.vercel.app-0d1117?style=for-the-badge&logo=vercel&labelColor=161b22&logoColor=c9d1d9" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/aaban-ehsan"><img src="https://img.shields.io/badge/LinkedIn-aaban--ehsan-0d1117?style=for-the-badge&logo=linkedin&labelColor=161b22&logoColor=c9d1d9" alt="LinkedIn"></a>
 <a href="mailto:aabanehsan@gmail.com"><img src="https://img.shields.io/badge/Email-aabanehsan%40gmail.com-0d1117?style=for-the-badge&logo=gmail&labelColor=161b22&logoColor=c9d1d9" alt="Email"></a>
 <a href="https://github.com/aabanehsan"><img src="https://img.shields.io/badge/GitHub-aabanehsan-0d1117?style=for-the-badge&logo=github&labelColor=161b22&logoColor=c9d1d9" alt="GitHub"></a>
