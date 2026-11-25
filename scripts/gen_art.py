@@ -67,7 +67,7 @@ def identity() -> str:
         shapes = "".join(glyph(c, ox + j * cw, oy + i * ch, cw, ch) for j, c in enumerate(row) if c != " ")
         parts.append(f'<g class="row" style="animation-delay:{1.2 + i * 0.12:.2f}s">{shapes}</g>')
 
-    tagline = "red teaming  //  ai security  //  grc"
+    tagline = "cloud defense  //  red teaming  //  ai security"
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Aaban Ehsan">
   <title>Aaban Ehsan</title>
   <style>
@@ -120,11 +120,11 @@ LOGO = r"""
 """.strip("\n").split("\n")
 
 INFO = [
-    ("Role", "GRC, Information Security @ State Farm"),
-    ("Prev", "Penetration Testing Intern @ State Farm"),
+    ("Role", "Cloud Defense, InfoSec @ State Farm"),
+    ("Prev", "GRC, Pentest Intern @ State Farm"),
     ("School", "UT Austin, B.S. Informatics '28"),
     ("Minor", "Statistics & Data Science"),
-    ("Focus", "Red teaming, AI/LLM security, GRC"),
+    ("Focus", "Cloud security, red teaming, AI security"),
     ("Tools", "Burp Suite, Nmap, Nessus, Metasploit, ffuf"),
     ("Stack", "Python, Bash, Linux, Docker, SQL, R"),
     ("Blue", "Elastic SIEM, Linux hardening"),

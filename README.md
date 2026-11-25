@@ -6,11 +6,11 @@
 
 ### `aaban@github ~ $ cat about.txt`
 
-Hey, I'm Aaban. I work in GRC on the Information Security team at State Farm, where I was a penetration testing intern before that. I study Informatics at UT Austin with a minor in Statistics & Data Science.
+Hey, I'm Aaban. I work in Cloud Defense on the Information Security team at State Farm. Before that I was on the GRC team and a penetration testing intern there. I study Informatics at UT Austin with a minor in Statistics & Data Science.
 
-I like breaking things and then figuring out how to explain the risk to the people who have to fix it. Most of what I build sits in that space: offensive tooling, AI/LLM security, and mapping technical findings to real controls.
+I like breaking things and then figuring out how to explain the risk to the people who have to fix it. Most of what I build sits in that space: cloud and AI security, offensive tooling, and mapping technical findings to real controls.
 
-- 🛡️ GRC, Information Security @ **State Farm** (prev. Penetration Testing Intern)
+- ☁️ Cloud Defense, Information Security @ **State Farm** (prev. GRC and Penetration Testing Intern)
 - 🎯 Built **[promptprobe](https://github.com/aabanehsan/promptprobe)**, a prompt injection testing CLI for LLM apps (39 attacks, OWASP LLM Top 10 mapped)
 - ⚔️ Running a **red vs blue lab** with friends: harden Linux boxes, attack them, catch the attacker live
 - 📦 Hack The Box every week with State Farm's internal hack club
